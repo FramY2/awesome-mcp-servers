@@ -557,6 +557,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 - **[MBro](https://github.com/sitbon/magg/blob/main/docs/mbro.md)** - A powerful interactive terminal **M**CP **Bro**wser client with tab completion and automatic documentation that allows you to work with multiple MCP servers, manage tools, and create complex workflows using AI assistants.
 - **[mcp-cli](https://github.com/wong2/mcp-cli)** a cli inspector for MCP servers
+- **[CtxWise](https://github.com/FramY2/ctxwise)** - CLI inspector and tree-shaker for MCP server 	ools/list schemas (ctxwise mcp-xray), startup token budgets, and context security across Claude Code and OpenAI Codex
 - **[mcp-client](https://github.com/rakesh-eltropy/mcp-client)** MCP REST API and CLI client for interacting with MCP servers, supports OpenAI, Claude, Gemini, Ollama etc.
 - **[MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge)** 🐍 an openAI middleware proxy to use mcp in any existing openAI compatible client
 - **[MCP-Chatbot](https://github.com/3choff/mcp-chatbot)** A simple yet powerful ⭐ CLI chatbot that integrates tool servers with any OpenAI-compatible LLM API.
