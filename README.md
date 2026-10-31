@@ -581,3 +581,4 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 - **[ToolHive](https://github.com/Stacklok/toolhive)** - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+- **[mcp-diet](https://github.com/FramY2/mcp-diet)** - Zero-dependency stdio MCP proxy and runtime context firewall for deterministic `tools/list` tree-shaking, oversized `tools/call` crash protection, and live secret redaction
